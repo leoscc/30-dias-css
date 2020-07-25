@@ -28,11 +28,13 @@ Aceitei o desafio inicialmente proposto pela [Milena Carecho](https://github.com
 
 dia 01 - Loader Animado (25/07/2020)
 
+---
+
 ## Desafio dia 01 - Loader Animado
 
 <img src="https://j.gifs.com/ZYBP66.gif" />
 
-[Meu código][./desafios/dia-01]
+[Meu código][dia01]
 
 **O que aprendi**
 
@@ -62,3 +64,6 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber m
 [mylinkedin]: https://www.linkedin.com/in/leonardo-dev/
 [onlinetutorials]: https://www.youtube.com/channel/ucbwxnuipzslfuckbpsc7jog
 [codingnepal]: https://www.youtube.com/c/codingnepal/videos
+
+
+[dia01]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-01
