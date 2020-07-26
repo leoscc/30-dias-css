@@ -27,6 +27,7 @@ Aceitei o desafio inicialmente proposto pela [Milena Carecho](https://github.com
 ## Calendário de projetos
 
 dia 01 - Loader Animado (25/07/2020)
+dia 02 - 3D Comic Book (26/07/2020)
 
 ---
 
@@ -39,6 +40,15 @@ dia 01 - Loader Animado (25/07/2020)
 **O que aprendi**
 
 - CSS Animations
+
+## Desafio dia 02 - 3D Comic Book
+
+<img src="https://j.gifs.com/81vG2j.gif" />
+
+**O que aprendi**
+
+- [Perspective][cssperspective]
+- [Transform][csstransform]
 
 ## ✍🏽 Autores <a name="authors"></a>
 
@@ -64,6 +74,6 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber m
 [mylinkedin]: https://www.linkedin.com/in/leonardo-dev/
 [onlinetutorials]: https://www.youtube.com/channel/ucbwxnuipzslfuckbpsc7jog
 [codingnepal]: https://www.youtube.com/c/codingnepal/videos
-
-
 [dia01]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-01
+[csstransform]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform
+[cssperspective]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/perspective

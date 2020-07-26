@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+
+  background-color: #fafafa;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  transform-style: preserve-3d;
+  perspective: 1000px;
+}
+
+section .book {
+  position: relative;
+  width: 383px;
+  height: 567px;
+  box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.2);
+
+  transform-style: preserve-3d;
+  transition: 0.5s;
+
+  cursor: pointer;
+}
+
+section .book:hover {
+  transform: rotateY(35deg);
+  box-shadow: 0px 20px 20px rgba(0, 0, 0, 0.2);
+}
+
+section .book:active {
+  transform: rotateY(180deg);
+}
+
+section .book::before {
+  content: "";
+  position: absolute;
+  width: 60px;
+  height: 100%;
+  transform-origin: left;
+  background: url(./assets/side.jpg);
+  background-position: center;
+  transform: rotateY(90deg);
+}
+
+section .book::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform-origin: center;
+  background: url(./assets/back.jpg);
+  background-position: center;
+  transform: rotateY(180deg) translateZ(60px);
+}
+
+section .book img {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
