@@ -43,9 +43,11 @@ dia 02 - 3D Comic Book (26/07/2020)
 
 ## Desafio dia 02 - 3D Comic Book
 
-<img src="https://j.gifs.com/81vG2j.gif" />
+<img src="https://j.gifs.com/OMnm7r.gif" />
 
 **O que aprendi**
+
+[Código do desafio][dia02]
 
 - [Perspective][cssperspective]
 - [Transform][csstransform]
@@ -75,5 +77,6 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber m
 [onlinetutorials]: https://www.youtube.com/channel/ucbwxnuipzslfuckbpsc7jog
 [codingnepal]: https://www.youtube.com/c/codingnepal/videos
 [dia01]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-01
+[dia02]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-02
 [csstransform]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform
 [cssperspective]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/perspective
