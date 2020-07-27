@@ -1,5 +1,4 @@
 <h1 align="center" style="display: flex; place-items: center;">
-  <img src="https://img.icons8.com/color/48/000000/calendar-30.png" style="margin-right: 8px;" />
   Desafio 30 dias de CSS
 </h1>
 
