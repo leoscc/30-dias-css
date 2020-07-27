@@ -52,6 +52,15 @@ dia 02 - 3D Comic Book (26/07/2020)
 - [Perspective][cssperspective]
 - [Transform][csstransform]
 
+## Desafio dia 03 - Parallax Effect
+
+<img src="https://j.gifs.com/XLz1lm.gif" />
+
+[Código do desafio][dia03]
+
+- Position
+- JS: eventListener
+
 ## ✍🏽 Autores <a name="authors"></a>
 
 Feito com ❤️ por Leonardo Carvalho
@@ -78,5 +87,6 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber m
 [codingnepal]: https://www.youtube.com/c/codingnepal/videos
 [dia01]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-01
 [dia02]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-02
+[dia03]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-03
 [csstransform]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform
 [cssperspective]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/perspective
