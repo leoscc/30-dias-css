@@ -44,7 +44,7 @@ dia 02 - 3D Comic Book (26/07/2020)
 
 <img src="https://j.gifs.com/OMnm7r.gif" />
 
-**O que aprendi**
+**O que usei neste desafio**
 
 [Código do desafio][dia02]
 
@@ -57,8 +57,21 @@ dia 02 - 3D Comic Book (26/07/2020)
 
 [Código do desafio][dia03]
 
-- Position
+**O que usei neste desafio**
+
+- position
 - JS: eventListener
+
+## Desafio dia 04 - Sabre de Luz
+
+<img src="https://j.gifs.com/VAxgNX.gif" />
+
+[Código do desafio][dia04]
+
+**O que usei neste desafio**
+
+- ::after
+- hover
 
 ## ✍🏽 Autores <a name="authors"></a>
 
@@ -87,5 +100,6 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber m
 [dia01]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-01
 [dia02]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-02
 [dia03]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-03
+[dia04]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-04
 [csstransform]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform
 [cssperspective]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/perspective
