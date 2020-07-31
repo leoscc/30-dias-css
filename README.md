@@ -86,6 +86,17 @@ dia 02 - 3D Comic Book (26/07/2020)
 - keyframes
 - animation
 
+## Desafio dia 06 - Letras Iluminadas
+
+<img src="https://j.gifs.com/E8o04k.gif" />
+
+[Código do desafio][dia06]
+
+**O que usei neste desafio**
+
+- animation
+- nth-child ()
+
 ## ✍🏽 Autores <a name="authors"></a>
 
 Feito com ❤️ por Leonardo Carvalho
@@ -115,5 +126,6 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber m
 [dia03]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-03
 [dia04]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-04
 [dia05]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-05
+[dia06]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-06
 [csstransform]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform
 [cssperspective]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/perspective
