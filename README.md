@@ -97,6 +97,17 @@ dia 02 - 3D Comic Book (26/07/2020)
 - animation
 - nth-child ()
 
+## Desafio dia 07 - Pulse Effect
+
+<img src="https://j.gifs.com/p85ky6.gif" />
+
+[Código do desafio][dia 07]
+
+**O que usei neste desafio**
+
+- animation
+- keyframes
+
 ## ✍🏽 Autores <a name="authors"></a>
 
 Feito com ❤️ por Leonardo Carvalho
