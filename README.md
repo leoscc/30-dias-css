@@ -108,6 +108,18 @@ dia 02 - 3D Comic Book (26/07/2020)
 - animation
 - keyframes
 
+## Desafio dia 07 - Checkbox
+
+<img src="https://j.gifs.com/71KAY1.gif" />
+
+[Código do desafio][dia 07]
+
+**O que usei neste desafio**
+
+- :after
+- transitions
+- appearence (resetar o estilo padrão do elemento)
+
 ## ✍🏽 Autores <a name="authors"></a>
 
 Feito com ❤️ por Leonardo Carvalho
