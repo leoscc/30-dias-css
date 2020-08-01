@@ -108,11 +108,11 @@ dia 02 - 3D Comic Book (26/07/2020)
 - animation
 - keyframes
 
-## Desafio dia 07 - Checkbox
+## Desafio dia 08 - Checkbox
 
 <img src="https://j.gifs.com/71KAY1.gif" />
 
-[Código do desafio][dia 07]
+[Código do desafio][dia 08]
 
 **O que usei neste desafio**
 
@@ -151,5 +151,6 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber m
 [dia05]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-05
 [dia06]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-06
 [dia07]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-07
+[dia08]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-08
 [csstransform]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform
 [cssperspective]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/perspective
