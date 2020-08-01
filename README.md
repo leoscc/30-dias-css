@@ -150,5 +150,6 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber m
 [dia04]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-04
 [dia05]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-05
 [dia06]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-06
+[dia07]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-07
 [csstransform]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform
 [cssperspective]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/perspective
