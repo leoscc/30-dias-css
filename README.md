@@ -120,6 +120,19 @@ dia 02 - 3D Comic Book (26/07/2020)
 - transitions
 - appearence (resetar o estilo padrão do elemento)
 
+## Desafio dia 09 - Botão Hover Animado
+
+<img src="https://j.gifs.com/lx4MRM.gif" />
+
+[Código do desafio][dia 09]
+
+**O que usei neste desafio**
+
+- :hover
+- ::before
+- z-index
+- transition
+
 ## ✍🏽 Autores <a name="authors"></a>
 
 Feito com ❤️ por Leonardo Carvalho
@@ -152,5 +165,6 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber m
 [dia06]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-06
 [dia07]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-07
 [dia08]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-08
+[dia09]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-09
 [csstransform]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform
 [cssperspective]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/perspective
