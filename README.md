@@ -133,6 +133,21 @@ dia 02 - 3D Comic Book (26/07/2020)
 - z-index
 - transition
 
+## Desafio dia 10 - Loading com esferas
+
+<img src="https://j.gifs.com/OMBqzg.gif" />
+
+[Código do desafio][dia 10]
+
+**O que usei neste desafio**
+
+- var()
+- nth-child()
+- ::before
+- keyframes
+- animation
+- animation-delay
+
 ## ✍🏽 Autores <a name="authors"></a>
 
 Feito com ❤️ por Leonardo Carvalho
@@ -166,5 +181,6 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber m
 [dia07]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-07
 [dia08]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-08
 [dia09]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-09
+[dia10]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-10
 [csstransform]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform
 [cssperspective]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/perspective
