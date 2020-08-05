@@ -1,0 +1,115 @@
+/*===== GOOGLE FONTS =====*/
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap");
+
+:root {
+  --primary-color: #1a73e8;
+  --input-color: #80868b;
+  --border-color: #dadce0;
+  --background-color: #f8f8f8;
+
+  --body-font: "Roboto", sans-serif;
+  --normal-font-size: 1rem;
+  --small-font-size: 0.75rem;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  font-family: var(--body-font);
+  font-size: var(--normal-font-size);
+  background-color: var(--background-color);
+
+  display: grid;
+  place-items: center;
+  place-content: center;
+}
+
+.center {
+  width: 400px;
+}
+
+.form-div {
+  position: relative;
+  height: 48px;
+  margin-bottom: 1.5rem;
+}
+
+.form-input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  font-size: var(--normal-font-size);
+  border: 1px solid var(--border-color);
+  border-radius: 0.5rem;
+  outline: none;
+  padding: 1rem;
+  background: none;
+  z-index: 1;
+}
+
+.form-label {
+  position: absolute;
+  left: 1rem;
+  top: 1rem;
+  padding: 0 0.25rem;
+  color: var(--input-color);
+  font-size: var(--normal-font-size);
+  background-color: var(--background-color);
+
+  transition: 0.3s;
+}
+
+.form-button {
+  display: block;
+
+  outline: none;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  margin-left: auto;
+  border-radius: 0.5rem;
+  padding: 0.75rem 2rem;
+  font-size: var(--normal-font-size);
+  background-color: var(--primary-color);
+
+  transition: 0.3s;
+}
+
+.form-button:hover {
+  box-shadow: 0 10px 36px rgba(0, 0, 0, 0.15);
+}
+
+/* move up label */
+.form-input:focus + .form-label {
+  top: -0.5rem;
+  left: 0.8rem;
+  z-index: 10;
+  font-weight: 500;
+  color: var(--primary-color);
+  font-size: var(--small-font-size);
+}
+
+/* sticky label when input it is filled */
+.form-input:not(:placeholder-shown).form-input:not(:focus) + .form-label {
+  top: -0.5rem;
+  left: 0.8rem;
+  z-index: 10;
+  font-weight: 500;
+  font-size: var(--small-font-size);
+}
+
+.form-input:focus {
+  border: 1.5px solid var(--primary-color);
+}
+
+footer {
+  color: var(--border-color);
+}

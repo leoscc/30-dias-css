@@ -160,6 +160,19 @@ dia 02 - 3D Comic Book (26/07/2020)
 - keyframes
 - position
 
+## Desafio dia 12 - Input do Google
+
+<img src="https://j.gifs.com/OMBGZQ.gif" />
+
+[Código do desafio][dia 12]
+
+**O que usei neste desafio**
+
+- var
+- transition
+- position
+- :not, :focus
+
 ## ✍🏽 Autores <a name="authors"></a>
 
 Feito com ❤️ por Leonardo Carvalho
@@ -194,5 +207,7 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber m
 [dia08]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-08
 [dia09]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-09
 [dia10]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-10
+[dia11]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-11
+[dia12]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-12
 [csstransform]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform
 [cssperspective]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/perspective
