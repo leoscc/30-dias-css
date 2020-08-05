@@ -148,6 +148,18 @@ dia 02 - 3D Comic Book (26/07/2020)
 - animation
 - animation-delay
 
+## Desafio dia 11 - Texto com mudança de cor
+
+<img src="https://j.gifs.com/P7DK12.gif" />
+
+[Código do desafio][dia 11]
+
+**O que usei neste desafio**
+
+- animation
+- keyframes
+- position
+
 ## ✍🏽 Autores <a name="authors"></a>
 
 Feito com ❤️ por Leonardo Carvalho

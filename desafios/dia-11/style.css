@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+section {
+  width: 100%;
+  height: 100%;
+  background: #16697a;
+  box-sizing: border-box;
+  overflow: hidden;
+  position: absolute;
+}
+
+.wrapper {
+  width: 50%;
+  height: 100%;
+  overflow: hidden;
+  color: #ede7e3;
+  background: #ffa62b;
+  border-right: 2px solid #dca;
+
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.sliding {
+  position: absolute;
+  top: 50%;
+
+  overflow: hidden;
+  white-space: nowrap;
+
+  font-size: 12em;
+  line-height: 220px;
+  font-weight: bolder;
+  animation: animate 8s linear infinite;
+}
+
+@keyframes animate {
+  from {
+    transform: translate(0, -50%);
+  }
+  to {
+    transform: translate(-50%, -50%);
+  }
+}
