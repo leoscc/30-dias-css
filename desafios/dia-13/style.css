@@ -1,0 +1,45 @@
+body {
+  width: 100%;
+  height: 100vh;
+
+  display: grid;
+  place-items: center;
+}
+
+.menu {
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
+  background-color: deepskyblue;
+
+  display: grid;
+  place-items: center;
+}
+
+.container {
+  cursor: pointer;
+  display: inline-block;
+}
+
+.bar1,
+.bar2,
+.bar3 {
+  width: 64px;
+  height: 8px;
+  margin: 3px 0;
+  transition: 0.4s;
+  border-radius: 8px;
+  background-color: #333;
+}
+
+.change .bar1 {
+  transform: rotate(-45deg) translate(-9px, 6px);
+}
+
+.change .bar2 {
+  opacity: 0;
+}
+
+.change .bar3 {
+  transform: rotate(45deg) translate(-8px, -8px);
+}
