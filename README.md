@@ -201,6 +201,11 @@ dia 02 - 3D Comic Book (26/07/2020)
 
 [Código do desafio][dia15]
 
+## Desafio dia 16 - Intro Animada
+
+<img src="https://j.gifs.com/VAMDyX.gif" />
+
+[Código do desafio][dia16]
 
 ## ✍🏽 Autores <a name="authors"></a>
 
@@ -241,5 +246,6 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber m
 [dia13]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-13
 [dia14]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-14
 [dia15]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-15
+[dia16]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-16
 [csstransform]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform
 [cssperspective]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/perspective
