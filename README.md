@@ -220,6 +220,18 @@ dia 02 - 3D Comic Book (26/07/2020)
 - ::before
 - position
 
+## Desafio dia 18 - Texto Esfumaçado
+
+<img src="https://j.gifs.com/wV41q8.gif" />
+
+[Código do desafio][dia18]
+
+**O que usei neste desafio**
+
+- filter
+- transform
+- nth-child
+
 ## ✍🏽 Autores <a name="authors"></a>
 
 Feito com ❤️ por Leonardo Carvalho
@@ -261,5 +273,6 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber m
 [dia15]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-15
 [dia16]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-16
 [dia17]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-17
+[dia18]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-18
 [csstransform]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform
 [cssperspective]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/perspective
