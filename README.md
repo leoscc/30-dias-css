@@ -238,6 +238,21 @@ dia 02 - 3D Comic Book (26/07/2020)
 
 [Código do desafio][dia19]
 
+## Desafio dia 20 - Apple Watch Breath
+
+<img src="https://j.gifs.com/NLA37L.gif" />
+
+[Código do desafio][dia20]
+
+**O que usei neste desafio**
+
+- keyframes
+- position
+- nth-child()
+- mix-blend-mode
+- transform
+- positon
+
 ## ✍🏽 Autores <a name="authors"></a>
 
 Feito com ❤️ por Leonardo Carvalho
@@ -281,5 +296,6 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber m
 [dia17]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-17
 [dia18]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-18
 [dia19]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-19
+[dia20]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-20
 [csstransform]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform
 [cssperspective]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/perspective
