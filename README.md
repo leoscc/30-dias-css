@@ -232,6 +232,12 @@ dia 02 - 3D Comic Book (26/07/2020)
 - transform
 - nth-child
 
+## Desafio dia 19 - Image Trail
+
+<img src="" alt="Image trail" />
+
+[Código do desafio][dia19]
+
 ## ✍🏽 Autores <a name="authors"></a>
 
 Feito com ❤️ por Leonardo Carvalho
@@ -274,5 +280,6 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber m
 [dia16]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-16
 [dia17]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-17
 [dia18]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-18
+[dia19]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-19
 [csstransform]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform
 [cssperspective]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/perspective
