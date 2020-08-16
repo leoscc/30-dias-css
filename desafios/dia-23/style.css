@@ -1,0 +1,117 @@
+@import url("https://fonts.googleapis.com/css?family=Pacifico:400,700");
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 62.5%;
+  font-family: "Pacifico", sans-serif;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  background-color: #f8fafa;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h1 {
+  font-size: 7.2rem;
+}
+
+span {
+  color: #838383;
+  font-weight: 400;
+  font-size: 1.6rem;
+  font-style: italic;
+  font-family: sans-serif;
+}
+
+.scary {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.left-eye {
+  width: 6rem;
+  height: 8rem;
+  border-radius: 50%;
+  border: 2px solid #121212;
+  animation: shake 0.8s infinite reverse;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.right-eye {
+  width: 6rem;
+  height: 8rem;
+  border-radius: 50%;
+  margin-left: 0.7rem;
+  border: 2px solid #121212;
+  animation: shake 0.8s infinite alternate-reverse;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.eye-ball {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background-color: #121212;
+
+  animation: scary 1.8s both infinite alternate-reverse;
+}
+
+@keyframes scary {
+  0% {
+    transform: translateX(0px);
+  }
+
+  25% {
+    transform: translateX(28px);
+  }
+
+  50% {
+    transform: translateX(-28px);
+  }
+
+  75% {
+    transform: translateY(28px);
+  }
+
+  100% {
+    transform: translateY(-20px);
+  }
+}
+
+@keyframes shake {
+  10%,
+  90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+  20%,
+  80% {
+    transform: translate3d(2px, 0, 0);
+  }
+  30%,
+  50%,
+  70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+  40%,
+  60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}

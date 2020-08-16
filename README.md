@@ -253,6 +253,41 @@ dia 02 - 3D Comic Book (26/07/2020)
 - transform
 - positon
 
+## Desafio dia 21 - Card Hover
+
+<img src="https://j.gifs.com/jZ4GZz.gif" />
+
+[código do desafio][dia21]
+
+**O que usei neste desafio**
+
+- :hover
+- transition
+
+## Desafio dia 22 - Animated Background
+
+<img src="https://j.gifs.com/r84QmB.gif" />
+
+[código do desafio][dia22]
+
+**O que usei neste desafio**
+
+- position
+- animation
+- keyframes
+- nth-child()
+
+## Desafio dia 23 - 404
+
+<img src="https://j.gifs.com/E8oN1W.gif" />
+
+[código do desafio][dia23]
+
+**O que usei neste desafio**
+
+- keyframes
+- animation
+
 ## ✍🏽 Autores <a name="authors"></a>
 
 Feito com ❤️ por Leonardo Carvalho
