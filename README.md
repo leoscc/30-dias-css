@@ -288,6 +288,16 @@ dia 02 - 3D Comic Book (26/07/2020)
 - keyframes
 - animation
 
+## Desafio dia 24 - Texto em 3d
+
+<img src="https://j.gifs.com/1WZ18P.gif" />
+
+[código do desafio][dia24]
+
+**O que usei neste desafio**
+
+- box-shadow
+
 ## ✍🏽 Autores <a name="authors"></a>
 
 Feito com ❤️ por Leonardo Carvalho
@@ -335,5 +345,6 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber m
 [dia21]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-21
 [dia22]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-22
 [dia23]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-23
+[dia24]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-24
 [csstransform]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform
 [cssperspective]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/perspective
