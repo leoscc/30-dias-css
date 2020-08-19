@@ -298,6 +298,30 @@ dia 02 - 3D Comic Book (26/07/2020)
 
 - box-shadow
 
+## Desafio dia 25 - Loader
+
+<img src="https://j.gifs.com/mOxO7O.gif" />
+
+[código do desafio][dia25]
+
+**O que usei neste desafio**
+
+- keyframes
+- nth-child
+- animation
+
+## Desafio dia 26 - Glitch Text
+
+<img src="https://j.gifs.com/2xZxgK.gif" />
+
+[código do desafio][dia26]
+
+**O que usei neste desafio**
+
+- animation
+- transform
+- data-text (HTML)
+
 ## ✍🏽 Autores <a name="authors"></a>
 
 Feito com ❤️ por Leonardo Carvalho
