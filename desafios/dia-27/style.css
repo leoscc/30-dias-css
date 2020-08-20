@@ -1,0 +1,30 @@
+body {
+  height: 100vh;
+  animation: bgchange 8s infinite;
+}
+
+@keyframes bgchange {
+  0% {
+    background-color: #ffc43d;
+  }
+
+  20% {
+    background-color: #ef476f;
+  }
+
+  40% {
+    background-color: #1b9aaa;
+  }
+
+  60% {
+    background-color: #06d6a0;
+  }
+
+  80% {
+    background-color: #f8ffe5;
+  }
+
+  100% {
+    background-color: #cdd876;
+  }
+}
