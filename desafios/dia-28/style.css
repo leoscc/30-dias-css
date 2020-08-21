@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  min-height: 100vh;
+  background: #ddd;
+}
+
+/* reseta a aparencia padrão do input */
+input[type="checkbox"] {
+  -webkit-appearance: none;
+  visibility: hidden;
+  display: none;
+}
+
+.check {
+  position: relative;
+  display: block;
+  width: 60px;
+  height: 30px;
+  background: #52575d;
+  cursor: pointer;
+  border-radius: 20px;
+  overflow: hidden;
+  transition: ease-in 0.5s;
+}
+
+input[type="checkbox"]:checked ~ .check {
+  background: #ddd;
+  box-shadow: 0 0 0 1200px #41444b;
+}
+
+.check:before {
+  content: "";
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  background: #fddb3a;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  transition: 0.5s;
+}
+
+input[type="checkbox"]:checked ~ .check:before {
+  transform: translateX(-600px);
+}
+
+.check:after {
+  content: "";
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  background: #52575d;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  transition: 0.5s;
+  transform: translateX(50px);
+}
+
+input[type="checkbox"]:checked ~ .check:after {
+  transform: translateX(0px);
+}

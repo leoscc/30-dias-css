@@ -322,7 +322,7 @@ dia 02 - 3D Comic Book (26/07/2020)
 - transform
 - data-text (HTML)
 
-## Desafio dia 26 - Fundo que troca de cor
+## Desafio dia 27 - Fundo que troca de cor
 
 <img src="https://j.gifs.com/OMx8XE.gif" />
 
@@ -331,6 +331,12 @@ dia 02 - 3D Comic Book (26/07/2020)
 **O que usei neste desafio**
 
 - animation
+
+## Desafio dia 28 - Switch Background
+
+<img src="https://j.gifs.com/81ZXMW.gif" />
+
+[código do desafio][dia28]
 
 ## ✍🏽 Autores <a name="authors"></a>
 
@@ -383,5 +389,6 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber m
 [dia25]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-25
 [dia26]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-26
 [dia27]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-27
+[dia28]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-28
 [csstransform]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform
 [cssperspective]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/perspective
