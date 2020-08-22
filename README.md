@@ -326,7 +326,7 @@ dia 02 - 3D Comic Book (26/07/2020)
 
 <img src="https://j.gifs.com/OMx8XE.gif" />
 
-[código do desafio][dia26]
+[código do desafio][dia27]
 
 **O que usei neste desafio**
 
@@ -337,6 +337,12 @@ dia 02 - 3D Comic Book (26/07/2020)
 <img src="https://j.gifs.com/81ZXMW.gif" />
 
 [código do desafio][dia28]
+
+## Desafio dia 29 - Loading Text
+
+<img src="https://j.gifs.com/XLKklA.gif" />
+
+[código do desafio][dia29]
 
 ## ✍🏽 Autores <a name="authors"></a>
 
@@ -390,5 +396,6 @@ Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber m
 [dia26]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-26
 [dia27]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-27
 [dia28]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-28
+[dia29]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-29
 [csstransform]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform
 [cssperspective]: https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/perspective
