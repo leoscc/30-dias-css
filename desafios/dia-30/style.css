@@ -1,0 +1,131 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  background-color: #383838;
+  background: linear-gradient(90deg, #121212, #383838);
+
+  display: grid;
+  place-items: center;
+}
+
+.container {
+  width: 300px;
+  height: 300px;
+  border-bottom: 1px solid #f8fafa;
+
+  position: relative;
+}
+
+.cake {
+  position: absolute;
+
+  width: 180px;
+  height: 70px;
+  background-color: #fcf18e;
+}
+
+.base {
+  bottom: 0;
+  left: 60px;
+}
+
+.cream {
+  position: absolute;
+  top: 30px;
+
+  width: 100%;
+  height: 10px;
+  background-color: #fa406b;
+}
+
+.icing {
+  position: relative;
+
+  display: flex;
+  align-items: center;
+}
+
+.icing > div {
+  width: 26px;
+  height: 12.5px;
+  background-color: #fbd028;
+  border-radius: 0 0 26px 26px;
+}
+
+.cherries {
+  display: flex;
+  align-items: center;
+
+  position: absolute;
+  top: -18px;
+}
+
+.cherries > div {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: linear-gradient(45deg, #f7174c, #fa406b, #fafafa);
+}
+
+.cherries > div + div {
+  margin-left: 8px;
+}
+
+.middle {
+  transform: scale(0.8);
+  bottom: 62px;
+  left: 60px;
+
+  z-index: -1;
+}
+
+.top {
+  transform: scale(0.7);
+  bottom: 110px;
+  left: 60px;
+
+  z-index: -4;
+}
+
+.candle {
+  position: absolute;
+  top: 60px;
+  left: 48%;
+
+  width: 20px;
+  height: 70px;
+  z-index: -5;
+  border-radius: 4px 4px 0 0;
+  background: linear-gradient(to top, #c8c8c8, #fff);
+}
+
+.flame {
+  position: absolute;
+  top: 44px;
+  left: 49%;
+
+  width: 18px;
+  height: 18px;
+  z-index: -5;
+  animation: flameAnimation 1s infinite alternate-reverse;
+  transform: rotate(45deg);
+  border-radius: 0 50% 50% 50%;
+  background: linear-gradient(to bottom, #fbd028, #ffa9a1);
+}
+
+@keyframes flameAnimation {
+  from {
+    transform: scale(0.8) translateY(1px) rotate(45deg);
+    background: linear-gradient(to bottom, #fbd028, #ffa9a1);
+  }
+  to {
+    transform: scale(1) translateY(-1px) rotate(55deg);
+    background: linear-gradient(to top, #ffeeaa, #fbd028, #ffa9a1);
+  }
+}

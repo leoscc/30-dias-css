@@ -344,6 +344,12 @@ dia 02 - 3D Comic Book (26/07/2020)
 
 [código do desafio][dia29]
 
+## Desafio dia 30 - Cake
+
+<img src="https://j.gifs.com/0YZDLN.gif" />
+
+[código do desafio][dia30]
+
 ## ✍🏽 Autores <a name="authors"></a>
 
 Feito com ❤️ por Leonardo Carvalho
