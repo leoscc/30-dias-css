@@ -371,7 +371,7 @@ Feito com ❤️ por Leonardo Carvalho
 Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber mais.
 
 [mygithub]: https://github.com/leon-carvalho
-[mylinkedin]: https://www.linkedin.com/in/leonardo-dev/
+[mylinkedin]: https://www.linkedin.com/in/leoscc/
 [onlinetutorials]: https://www.youtube.com/channel/ucbwxnuipzslfuckbpsc7jog
 [codingnepal]: https://www.youtube.com/c/codingnepal/videos
 [dia01]: https://github.com/leon-carvalho/30DiasCSS/tree/master/desafios/dia-01
